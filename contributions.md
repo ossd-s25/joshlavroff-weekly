@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 2   | https://www.openstreetmap.org/changeset/162067297    | OpenStreetMap    |   Added a new restaurant on the lower east side to the map.    |
+| Feb 2   | <https://www.openstreetmap.org/changeset/162067297>    | OpenStreetMap    |   Added a new restaurant on the lower east side to the map.    |
 |     |     |     |      |
 |     |     |     |      |
