@@ -24,4 +24,5 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 2   | <https://www.openstreetmap.org/changeset/162067297>    | OpenStreetMap    |   Added a new restaurant on the lower east side to the map.    |
 | March 21    | <https://github.com/SimplifyJobs/New-Grad-Positions/issues/1017>    |   GitHub Issue  |  Submitted new job posting to SimplifyJobs New Grad Repository    |
-|     |     |     |      |
+|   April 10  |  <https://github.com/dgtlmoon/changedetection.io/issues/3104>   |   GitHub Issue  |  Found dead link in ChangeDetection wiki pages and reported it as an issue    |
+|   April 10  |  <https://github.com/dgtlmoon/changedetection.io/wiki/Community-watch-list/3de13e5f092826b3dfd9f60974ed34c8aa31f04b>   |   Documentation |  Resolved dead link in ChangeDetection wiki pages|
