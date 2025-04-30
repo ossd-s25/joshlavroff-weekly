@@ -28,3 +28,6 @@ Replace the first row with your own contribution.
 |   April 10  |  <https://github.com/dgtlmoon/changedetection.io/wiki/Community-watch-list/3de13e5f092826b3dfd9f60974ed34c8aa31f04b>   |   Documentation |  Resolved dead link in ChangeDetection wiki pages|
 |   April 14  |  <https://github.com/shadps4-emu/shadps4-game-compatibility/issues/484>   |   Documentation |  Added to games compatibility list for ShadPS4 Emulator|
 |   April 30  |  <https://github.com/get-alex/alex/issues/353>   |   GitHub Issue|  Found broken link on [alex](https://alexjs.com/) website|
+|   April 30  |  <https://github.com/DataResponsibly/ShaRP/issues/65>   |   GitHub Issue|  Found incorrect link in issue tracker bug report template|
+|   April 30  |  <https://github.com/DataResponsibly/ShaRP/pull/66>   |   Pull Request|  Fixed incorrect link in issue tracker bug report template|
+
