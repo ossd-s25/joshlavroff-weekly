@@ -30,4 +30,4 @@ Replace the first row with your own contribution.
 |   April 30  |  <https://github.com/get-alex/alex/issues/353>   |   GitHub Issue|  Found broken link on [alex](https://alexjs.com/) website|
 |   April 30  |  <https://github.com/DataResponsibly/ShaRP/issues/65>   |   GitHub Issue|  Found incorrect link in issue tracker bug report template|
 |   April 30  |  <https://github.com/DataResponsibly/ShaRP/pull/66>   |   Pull Request|  Fixed incorrect link in issue tracker bug report template|
-
+|   May 1  |  <https://github.com/joshlavroff/CherryBlossom/commit/9cf6cdc53e41379b95c2e713c4b53874a053c98c>   |   License|  Added license to personal project repo to make it officially open source|
